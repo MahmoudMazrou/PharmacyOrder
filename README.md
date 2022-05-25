@@ -1,16 +1,13 @@
-# ameerorder
+# Ameer Order
+![alameermoK (1)](https://user-images.githubusercontent.com/32362203/170329678-1a402a94-4a04-4555-a8d8-6ea97e82c8b1.jpg)
 
-A new Flutter application.
+An application for managing pharmacy orders and the way to access its address Firebase and Google Maps were used in this application
+#Skills 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Bloc-for state managment.
+- Firebase Authentication.
+- Firebase Storage.
+- Firebase Functions.
+- Shared Preferences.
+- Beautiful UI.
+- Beautiful Animation.
